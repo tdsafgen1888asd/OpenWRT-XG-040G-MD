@@ -23,6 +23,7 @@ on:
           - ROCKCHIP
           - X86
           - TEST
+          - AIROHA-WIFI-NO
       SOURCE:
         default: 'VIKINGYFY/immortalwrt'
         required: true
@@ -32,6 +33,7 @@ on:
           - immortalwrt/immortalwrt
           - LiBwrt/openwrt-6.x
           - qosmio/openwrt-ipq
+          - bingoguo93/immortalwrt
       BRANCH:
         default: 'main'
         required: true
