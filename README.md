@@ -8,8 +8,8 @@ https://github.com/immortalwrt/immortalwrt.git
 
 https://github.com/VIKINGYFY/immortalwrt.git
 
-贝尔040G系列，全面升级6.18内核
-详细说明
+贝尔040G系列，全面升级6.18内核  
+详细说明  
 https://www.right.com.cn/forum/thread-8453612-1-1.html
 
 支持设备：  
