@@ -8,6 +8,19 @@ https://github.com/immortalwrt/immortalwrt.git
 
 https://github.com/VIKINGYFY/immortalwrt.git
 
+贝尔040G系列，全面升级6.18内核
+详细说明
+https://www.right.com.cn/forum/thread-8453612-1-1.html
+
+支持设备：  
+带USB设备:
+  XG-040G-MD(lan4 wan)  XG-140G-MD(2.5g wan)
+
+不带USB设备: 
+  XG-040G-TF(lan4 wan)  XG-140G-TF(2.5g wan)
+
+https://github.com/bingoguo93/immortalwrt.git
+
 # U-BOOT
 
 高通版-沉心：
